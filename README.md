@@ -1,7 +1,11 @@
 
 
 ### Olá, eu sou o João Lucas 👋
- 
+
+🖥️ | <b> Graduando em ciências da computação na UNICAP - 5/8 </b>
+
+👨‍💻 | <b> Desenvolvedor backend </b>
+
 ![João Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonLucas33&show_icons=true&theme=dracula)
 
 ## Social:
@@ -26,4 +30,6 @@
 </img>
 
 </div>
+<br>
 
+<b> <i> “Bons programadores sabem o que escrever. Os melhores sabem o que reescrever.” – Eric Raymond </i> </b>
