@@ -2,9 +2,9 @@
 
 ### Olá, eu sou o João Lucas 👋
 
-🖥️ | <b> Graduando em ciências da computação na UNICAP - 5/8 </b>
+🖥️ | <b> Graduando em ciências da computação na UNICAP - 6/8 </b>
 
-👨‍💻 | <b> Desenvolvedor backend </b>
+👨‍💻 | <b> Desenvolvedor full stack </b>
 
 ![João Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonLucas33&show_icons=true&theme=dracula)
 
@@ -28,7 +28,8 @@
 </img>
 <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </img>
-
+<img align="center" alt="React" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=F7DF1E%22%3E">
+</img>
 </div>
 <br>
 
