@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o João Lucas 👋
 
-🖥️ | <b> Graduando em ciências da computação na UNICAP - 7/8 </b>
+🖥️ | <b> Bacharel em ciências da computação na UNICAP </b>
 
 👨‍💻 | <b> Desenvolvedor full stack </b>
 
